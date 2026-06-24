@@ -14,4 +14,4 @@
 
 ## How to Reach Me
 - Email: [13kamausamson-tech.com]
-- LinkedIn: [https://github.com/13kamausamson-tech/13kamausamson-tech]
+- LinkedIn: [https://github.com/13kamausamson-tech]
